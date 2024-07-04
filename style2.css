@@ -1,0 +1,38 @@
+body{
+    background-color: darkgray;
+}
+
+button{
+    margin: 10px;
+    background-color: rgb(249, 216, 216);
+    margin-left:450px ;
+}
+input :focus{
+    background-color: rgb(57, 236, 243);
+}
+h1{
+    color: rgb(12, 12, 12);
+    
+}
+button:hover{
+    color: rgb(254, 4, 0);
+    background-color: rgb(88, 185, 112);
+}
+table{
+    padding: 10px;
+}
+h1{
+    text-align: center;
+
+}
+table{
+    margin-top: 10px;
+    margin-left:450px;
+    
+}
+.can{
+    margin-left: 70px;
+}
+
+
+
